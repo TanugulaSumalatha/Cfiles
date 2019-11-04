@@ -1,4 +1,4 @@
-//checking fo cow mechanism (copy on write)
+//******checking fo cow mechanism (copy on write)**********
 #include<stdio.h>
 #include<unistd.h>
  int x=10; //global variable definied
